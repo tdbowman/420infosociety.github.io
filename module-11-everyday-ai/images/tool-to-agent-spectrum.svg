@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="900" height="420" fill="#ffffff"/>
+
+  <text x="450" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#263238">From Tool to Agent: The Delegation Spectrum</text>
+  <text x="450" y="56" text-anchor="middle" font-size="13" fill="#455a64">Each step hands over more of the task — and blurs more of the accountability</text>
+
+  <!-- Stage 1: Tool -->
+  <rect x="30" y="80" width="180" height="130" rx="8" fill="#fafafa" stroke="#455a64" stroke-width="2"/>
+  <text x="120" y="106" text-anchor="middle" font-size="16" font-weight="bold" fill="#263238">TOOL</text>
+  <text x="120" y="126" text-anchor="middle" font-size="12" font-style="italic" fill="#455a64">You do it.</text>
+  <line x1="55" y1="138" x2="185" y2="138" stroke="#b0bec5" stroke-width="1"/>
+  <text x="120" y="158" text-anchor="middle" font-size="11" fill="#455a64">Everyday example:</text>
+  <text x="120" y="174" text-anchor="middle" font-size="11" fill="#263238">a calculator or</text>
+  <text x="120" y="189" text-anchor="middle" font-size="11" fill="#263238">spellchecker you apply</text>
+  <text x="120" y="204" text-anchor="middle" font-size="11" fill="#263238">to your own work</text>
+
+  <!-- Arrow 1 -->
+  <line x1="212" y1="145" x2="245" y2="145" stroke="#00897b" stroke-width="3"/>
+  <polygon points="245,138 259,145 245,152" fill="#00897b"/>
+
+  <!-- Stage 2: Assistant -->
+  <rect x="261" y="80" width="180" height="130" rx="8" fill="#eceff1" stroke="#455a64" stroke-width="2"/>
+  <text x="351" y="106" text-anchor="middle" font-size="16" font-weight="bold" fill="#263238">ASSISTANT</text>
+  <text x="351" y="126" text-anchor="middle" font-size="12" font-style="italic" fill="#455a64">It helps you.</text>
+  <line x1="286" y1="138" x2="416" y2="138" stroke="#b0bec5" stroke-width="1"/>
+  <text x="351" y="158" text-anchor="middle" font-size="11" fill="#455a64">Everyday example:</text>
+  <text x="351" y="174" text-anchor="middle" font-size="11" fill="#263238">autocomplete drafts</text>
+  <text x="351" y="189" text-anchor="middle" font-size="11" fill="#263238">your email; you edit</text>
+  <text x="351" y="204" text-anchor="middle" font-size="11" fill="#263238">and hit send</text>
+
+  <!-- Arrow 2 -->
+  <line x1="443" y1="145" x2="476" y2="145" stroke="#00897b" stroke-width="3"/>
+  <polygon points="476,138 490,145 476,152" fill="#00897b"/>
+
+  <!-- Stage 3: Adviser -->
+  <rect x="492" y="80" width="180" height="130" rx="8" fill="#e0f2f1" stroke="#00897b" stroke-width="2"/>
+  <text x="582" y="106" text-anchor="middle" font-size="16" font-weight="bold" fill="#00423b">ADVISER</text>
+  <text x="582" y="126" text-anchor="middle" font-size="12" font-style="italic" fill="#455a64">It recommends.</text>
+  <line x1="517" y1="138" x2="647" y2="138" stroke="#80cbc4" stroke-width="1"/>
+  <text x="582" y="158" text-anchor="middle" font-size="11" fill="#455a64">Everyday example:</text>
+  <text x="582" y="174" text-anchor="middle" font-size="11" fill="#263238">a maps app picks your</text>
+  <text x="582" y="189" text-anchor="middle" font-size="11" fill="#263238">route; a feed decides</text>
+  <text x="582" y="204" text-anchor="middle" font-size="11" fill="#263238">what you see next</text>
+
+  <!-- Arrow 3 -->
+  <line x1="674" y1="145" x2="692" y2="145" stroke="#00897b" stroke-width="3"/>
+  <polygon points="692,138 706,145 692,152" fill="#00897b"/>
+
+  <!-- Stage 4: Delegate / Agent -->
+  <rect x="708" y="80" width="180" height="130" rx="8" fill="#00897b" stroke="#00423b" stroke-width="2"/>
+  <text x="798" y="104" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">DELEGATE /</text>
+  <text x="798" y="121" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">AGENT</text>
+  <text x="798" y="139" text-anchor="middle" font-size="11" font-style="italic" fill="#e0f2f1">It does it for you,</text>
+  <text x="798" y="153" text-anchor="middle" font-size="11" font-style="italic" fill="#e0f2f1">reports back.</text>
+  <text x="798" y="172" text-anchor="middle" font-size="11" fill="#e0f2f1">Everyday example:</text>
+  <text x="798" y="187" text-anchor="middle" font-size="11" fill="#ffffff">an agent books the trip,</text>
+  <text x="798" y="202" text-anchor="middle" font-size="11" fill="#ffffff">pays, emails you a recap</text>
+
+  <!-- Accountability notes -->
+  <rect x="30" y="228" width="180" height="88" rx="6" fill="#eceff1" stroke="#b0bec5" stroke-width="1"/>
+  <text x="120" y="248" text-anchor="middle" font-size="11" font-weight="bold" fill="#00423b">Who's accountable?</text>
+  <text x="120" y="266" text-anchor="middle" font-size="11" fill="#455a64">You. The tool waits</text>
+  <text x="120" y="281" text-anchor="middle" font-size="11" fill="#455a64">for your hand; every</text>
+  <text x="120" y="296" text-anchor="middle" font-size="11" fill="#455a64">choice is yours.</text>
+
+  <rect x="261" y="228" width="180" height="88" rx="6" fill="#eceff1" stroke="#b0bec5" stroke-width="1"/>
+  <text x="351" y="248" text-anchor="middle" font-size="11" font-weight="bold" fill="#00423b">Who's accountable?</text>
+  <text x="351" y="266" text-anchor="middle" font-size="11" fill="#455a64">Still you — you review</text>
+  <text x="351" y="281" text-anchor="middle" font-size="11" fill="#455a64">and approve each step</text>
+  <text x="351" y="296" text-anchor="middle" font-size="11" fill="#455a64">before it counts.</text>
+
+  <rect x="492" y="228" width="180" height="88" rx="6" fill="#eceff1" stroke="#b0bec5" stroke-width="1"/>
+  <text x="582" y="248" text-anchor="middle" font-size="11" font-weight="bold" fill="#00423b">Who's accountable?</text>
+  <text x="582" y="266" text-anchor="middle" font-size="11" fill="#455a64">Getting blurry: you</text>
+  <text x="582" y="281" text-anchor="middle" font-size="11" fill="#455a64">chose — but it framed</text>
+  <text x="582" y="296" text-anchor="middle" font-size="11" fill="#455a64">the options you saw.</text>
+
+  <rect x="708" y="228" width="180" height="88" rx="6" fill="#eceff1" stroke="#b0bec5" stroke-width="1"/>
+  <text x="798" y="248" text-anchor="middle" font-size="11" font-weight="bold" fill="#00423b">Who's accountable?</text>
+  <text x="798" y="266" text-anchor="middle" font-size="11" fill="#455a64">Contested: you, the</text>
+  <text x="798" y="281" text-anchor="middle" font-size="11" fill="#455a64">developer, the platform —</text>
+  <text x="798" y="296" text-anchor="middle" font-size="11" fill="#455a64">or nobody in particular?</text>
+
+  <!-- Bottom autonomy arrow -->
+  <line x1="60" y1="360" x2="820" y2="360" stroke="#00423b" stroke-width="3"/>
+  <polygon points="820,352 838,360 820,368" fill="#00423b"/>
+  <text x="450" y="390" text-anchor="middle" font-size="13" font-weight="bold" fill="#00423b">More autonomy for the software &#8594; more trust required from you &#8594; harder to say who answers when it fails</text>
+</svg>

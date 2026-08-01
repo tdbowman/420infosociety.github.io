@@ -1,0 +1,121 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 6c1f9d02-8e47-4b7a-9d3e-52b1a7f0c420
+  title: The Information Society
+  description: >-
+    Interactive textbook for INF 420 The Information Society at Dominican
+    University's School of Information Studies, exploring how artificial
+    intelligence, automation, cybersecurity, and information communication
+    are reshaping society — and how society shapes them back.
+  keywords:
+    - information society
+    - informatics
+    - artificial intelligence
+    - textbook
+  authors:
+    - name: Timothy D. Bowman
+      affiliations:
+        - Dominican University
+  github: https://github.com/tdbowman/420infosociety.github.io
+  copyright: '2026'
+  exclude:
+    - README.md
+  toc:
+    - file: intro.md
+    - file: assignments-and-timeline.md
+    - title: Getting Started
+      children:
+        - file: about-this-book.md
+        - file: how-to-use.md
+    - title: 'Part 1: Foundations'
+      children:
+        - file: module-01-intro/the-information-society.md
+          children:
+            - file: module-01-intro/what-is-the-information-society.md
+            - file: module-01-intro/information-and-its-meanings.md
+            - file: module-01-intro/forecasting-the-information-future.md
+        - file: module-02-theories/foundational-theories.md
+          children:
+            - file: module-02-theories/information-theory-and-its-limits.md
+            - file: module-02-theories/meaning-semiotics-and-society.md
+            - file: module-02-theories/knowing-in-the-age-of-ai.md
+    - title: 'Part 2: Intelligent Machines'
+      children:
+        - file: module-03-ai-society/ai-in-society.md
+          children:
+            - file: module-03-ai-society/what-ai-is-and-isnt.md
+            - file: module-03-ai-society/promise-and-peril.md
+            - file: module-03-ai-society/ai-and-human-connection.md
+        - file: module-04-automation/automation-and-robotics.md
+          children:
+            - file: module-04-automation/the-automated-world.md
+            - file: module-04-automation/robots-at-work.md
+            - file: module-04-automation/automation-fears-and-facts.md
+    - title: 'Part 3: Security & Ethics'
+      children:
+        - file: module-05-cybersecurity/cybersecurity-in-the-information-society.md
+          children:
+            - file: module-05-cybersecurity/the-threat-landscape.md
+            - file: module-05-cybersecurity/anatomy-of-a-breach.md
+            - file: module-05-cybersecurity/defending-the-information-society.md
+        - file: module-06-ethics/information-ethics.md
+          children:
+            - file: module-06-ethics/ethical-frameworks-for-technology.md
+            - file: module-06-ethics/the-ethics-of-ai.md
+            - file: module-06-ethics/from-principles-to-regulation.md
+    - title: 'Part 4: Trust & Truth'
+      children:
+        - file: module-07-trust/trust-in-the-information-society.md
+          children:
+            - file: module-07-trust/the-mechanics-of-trust.md
+            - file: module-07-trust/trusting-machines.md
+            - file: module-07-trust/trust-in-crisis.md
+        - file: module-08-misinformation/misinformation-and-disinformation.md
+          children:
+            - file: module-08-misinformation/the-misinformation-machine.md
+            - file: module-08-misinformation/deepfakes-and-synthetic-media.md
+            - file: module-08-misinformation/fighting-back.md
+        - file: module-09-review/midterm-review.md
+    - title: 'Part 5: The Connected Society'
+      children:
+        - file: module-10-communication/information-communication-and-society.md
+          children:
+            - file: module-10-communication/how-technology-mediates-experience.md
+            - file: module-10-communication/the-new-news-ecosystem.md
+            - file: module-10-communication/communicating-with-machines.md
+        - file: module-11-everyday-ai/ai-in-everyday-life.md
+          children:
+            - file: module-11-everyday-ai/the-delegation-society.md
+            - file: module-11-everyday-ai/ai-at-work-and-at-war.md
+            - file: module-11-everyday-ai/governing-everyday-ai.md
+    - title: 'Part 6: Futures'
+      children:
+        - file: module-12-future-of-work/the-future-of-work.md
+          children:
+            - file: module-12-future-of-work/what-the-evidence-says.md
+            - file: module-12-future-of-work/skills-and-adaptation.md
+            - file: module-12-future-of-work/debating-the-future.md
+        - file: module-13-cyber-ethics/cybersecurity-and-ethics.md
+          children:
+            - file: module-13-cyber-ethics/ethical-hacking.md
+            - file: module-13-cyber-ethics/cyber-conflict-and-the-laws-of-war.md
+            - file: module-13-cyber-ethics/hard-cases.md
+        - file: module-14-social-media/social-media-and-society.md
+          children:
+            - file: module-14-social-media/the-attention-economy.md
+            - file: module-14-social-media/watched-and-watching.md
+            - file: module-14-social-media/moderation-and-the-future-of-platforms.md
+    - title: Wrapping Up
+      children:
+        - file: course-wrapup.md
+    - title: Resources
+      children:
+        - file: glossary.md
+        - file: references.md
+site:
+  template: book-theme
+  title: INF 420 | The Information Society
+  options:
+    logo_text: INF 420 | The Information Society
+    hide_footer_links: true

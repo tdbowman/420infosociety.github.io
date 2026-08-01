@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#00897b"/>
+    </marker>
+    <marker id="arrowGray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#455a64"/>
+    </marker>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="900" height="400" fill="#ffffff"/>
+
+  <!-- title -->
+  <text x="450" y="42" text-anchor="middle" font-size="21" font-weight="bold" fill="#263238">The Automation Spectrum</text>
+  <text x="450" y="66" text-anchor="middle" font-size="13" fill="#455a64">Five overlapping stages — each adds machine capability, and none fully retires the last</text>
+
+  <!-- Stage 1: Mechanization -->
+  <rect x="15" y="100" width="150" height="160" rx="10" fill="#eceff1" stroke="#00897b" stroke-width="1.5"/>
+  <text x="90" y="127" text-anchor="middle" font-size="15" font-weight="bold" fill="#00423b">Mechanization</text>
+  <line x1="35" y1="140" x2="145" y2="140" stroke="#00897b" stroke-width="1"/>
+  <text x="90" y="162" text-anchor="middle" font-size="12" fill="#455a64">
+    <tspan x="90" dy="0">A power loom</tspan>
+    <tspan x="90" dy="16">weaves the cloth;</tspan>
+    <tspan x="90" dy="16">a person still</tspan>
+    <tspan x="90" dy="16">guides and</tspan>
+    <tspan x="90" dy="16">corrects it</tspan>
+  </text>
+
+  <!-- arrow 1 -->
+  <line x1="169" y1="180" x2="191" y2="180" stroke="#00897b" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- Stage 2: Fixed automation -->
+  <rect x="195" y="100" width="150" height="160" rx="10" fill="#e0f2f1" stroke="#00897b" stroke-width="1.5"/>
+  <text x="270" y="127" text-anchor="middle" font-size="15" font-weight="bold" fill="#00423b">
+    <tspan x="270" dy="0">Fixed</tspan>
+    <tspan x="270" dy="17">automation</tspan>
+  </text>
+  <line x1="215" y1="157" x2="325" y2="157" stroke="#00897b" stroke-width="1"/>
+  <text x="270" y="179" text-anchor="middle" font-size="12" fill="#455a64">
+    <tspan x="270" dy="0">A bottling line</tspan>
+    <tspan x="270" dy="16">repeats one task,</tspan>
+    <tspan x="270" dy="16">perfectly, forever —</tspan>
+    <tspan x="270" dy="16">and can do</tspan>
+    <tspan x="270" dy="16">nothing else</tspan>
+  </text>
+
+  <!-- arrow 2 -->
+  <line x1="349" y1="180" x2="371" y2="180" stroke="#00897b" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- Stage 3: Programmable automation -->
+  <rect x="375" y="100" width="150" height="160" rx="10" fill="#eceff1" stroke="#00897b" stroke-width="1.5"/>
+  <text x="450" y="127" text-anchor="middle" font-size="15" font-weight="bold" fill="#00423b">
+    <tspan x="450" dy="0">Programmable</tspan>
+    <tspan x="450" dy="17">automation</tspan>
+  </text>
+  <line x1="395" y1="157" x2="505" y2="157" stroke="#00897b" stroke-width="1"/>
+  <text x="450" y="179" text-anchor="middle" font-size="12" fill="#455a64">
+    <tspan x="450" dy="0">The same robot</tspan>
+    <tspan x="450" dy="16">arm is</tspan>
+    <tspan x="450" dy="16">reprogrammed to</tspan>
+    <tspan x="450" dy="16">weld this year's</tspan>
+    <tspan x="450" dy="16">car model</tspan>
+  </text>
+
+  <!-- arrow 3 -->
+  <line x1="529" y1="180" x2="551" y2="180" stroke="#00897b" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- Stage 4: Adaptive / AI-driven -->
+  <rect x="555" y="100" width="150" height="160" rx="10" fill="#e0f2f1" stroke="#00897b" stroke-width="1.5"/>
+  <text x="630" y="127" text-anchor="middle" font-size="15" font-weight="bold" fill="#00423b">
+    <tspan x="630" dy="0">Adaptive,</tspan>
+    <tspan x="630" dy="17">AI-driven</tspan>
+  </text>
+  <line x1="575" y1="157" x2="685" y2="157" stroke="#00897b" stroke-width="1"/>
+  <text x="630" y="179" text-anchor="middle" font-size="12" fill="#455a64">
+    <tspan x="630" dy="0">Warehouse robots</tspan>
+    <tspan x="630" dy="16">sense obstacles,</tspan>
+    <tspan x="630" dy="16">learn layouts, and</tspan>
+    <tspan x="630" dy="16">reroute themselves</tspan>
+  </text>
+
+  <!-- arrow 4 -->
+  <line x1="709" y1="180" x2="731" y2="180" stroke="#00897b" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- Stage 5: Embodied autonomy -->
+  <rect x="735" y="100" width="150" height="160" rx="10" fill="#fafafa" stroke="#00423b" stroke-width="2"/>
+  <text x="810" y="127" text-anchor="middle" font-size="15" font-weight="bold" fill="#00423b">
+    <tspan x="810" dy="0">Embodied</tspan>
+    <tspan x="810" dy="17">autonomy</tspan>
+  </text>
+  <line x1="755" y1="157" x2="865" y2="157" stroke="#00897b" stroke-width="1"/>
+  <text x="810" y="179" text-anchor="middle" font-size="12" fill="#455a64">
+    <tspan x="810" dy="0">A humanoid like</tspan>
+    <tspan x="810" dy="16">Atlas practices</tspan>
+    <tspan x="810" dy="16">factory tasks in a</tspan>
+    <tspan x="810" dy="16">human-shaped</tspan>
+    <tspan x="810" dy="16">body — still early</tspan>
+  </text>
+
+  <!-- bottom spectrum arrow -->
+  <line x1="30" y1="310" x2="870" y2="310" stroke="#455a64" stroke-width="2" marker-end="url(#arrowGray)"/>
+  <text x="30" y="336" text-anchor="start" font-size="12" fill="#455a64">Human guides the machine</text>
+  <text x="870" y="336" text-anchor="end" font-size="12" fill="#455a64">Machine guides itself</text>
+  <text x="450" y="336" text-anchor="middle" font-size="12" font-weight="bold" fill="#00423b">more perception, decision, and autonomy →</text>
+</svg>
