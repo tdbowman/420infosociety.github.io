@@ -2,6 +2,13 @@
 
 **INF 420 @ Dominican University | The iSchool**
 
+```{image} images/cover.png
+:alt: Book cover of The Information Society, INF 420 — a mid-century illustration of three overlapping human profiles in black, teal, and orange, woven together by a network of connected nodes.
+:width: 420px
+:align: center
+:class: book-cover
+```
+
 ---
 
 This interactive textbook is your companion for one big question: **what happens when a society runs on information?** Artificial intelligence writes and reasons, robots learn factory work by watching, misinformation travels faster than corrections, and nearly every job, relationship, and institution is being renegotiated around information technology. This course gives you the concepts, evidence, and critical habits to make sense of it — and to help shape it.

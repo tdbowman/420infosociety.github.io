@@ -40,6 +40,11 @@ const SNIPPET = `
   #${MARKER} .pct { font-size: 11px; color: #607d8b; min-width: 38px; text-align: center; }
   html[data-theme="dark"] #${MARKER} .pct, html.dark #${MARKER} .pct { color: #90a4ae; }
   @media print { #${MARKER} { display: none; } }
+  img.book-cover {
+    border-radius: 6px;
+    box-shadow: 0 12px 32px rgba(0,0,0,0.28);
+    margin: 1.5rem auto 2rem;
+  }
 </style>
 <script id="${MARKER}-js">
 (function () {
