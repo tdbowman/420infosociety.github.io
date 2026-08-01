@@ -1,6 +1,6 @@
 # About This Book 📘
 
-This open online textbook was created for **INF 420: The Information Society** at Dominican University's School of Information Studies, and revised in Summer 2026 for the Fall 2026 offering.
+This open online textbook was created for **INF 420: The Information Society** at Dominican University's School of Information Studies, and revised in Summer 2026 for the Fall 2026 offering. Happy days.
 
 ---
 
