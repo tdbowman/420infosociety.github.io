@@ -1,0 +1,5 @@
+_build/
+node_modules/
+exports/
+.DS_Store
+__pycache__/

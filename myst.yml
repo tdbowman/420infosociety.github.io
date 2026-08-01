@@ -21,6 +21,74 @@ project:
   copyright: '2026'
   exclude:
     - README.md
+  exports:
+    - id: book-pdf
+      format: typst
+      output: exports/INF420-The-Information-Society.pdf
+      articles:
+        - intro.md
+        - assignments-and-timeline.md
+        - about-this-book.md
+        - how-to-use.md
+        - module-01-intro/the-information-society.md
+        - module-01-intro/what-is-the-information-society.md
+        - module-01-intro/information-and-its-meanings.md
+        - module-01-intro/forecasting-the-information-future.md
+        - module-02-theories/foundational-theories.md
+        - module-02-theories/information-theory-and-its-limits.md
+        - module-02-theories/meaning-semiotics-and-society.md
+        - module-02-theories/knowing-in-the-age-of-ai.md
+        - module-03-ai-society/ai-in-society.md
+        - module-03-ai-society/what-ai-is-and-isnt.md
+        - module-03-ai-society/promise-and-peril.md
+        - module-03-ai-society/ai-and-human-connection.md
+        - module-04-automation/automation-and-robotics.md
+        - module-04-automation/the-automated-world.md
+        - module-04-automation/robots-at-work.md
+        - module-04-automation/automation-fears-and-facts.md
+        - module-05-cybersecurity/cybersecurity-in-the-information-society.md
+        - module-05-cybersecurity/the-threat-landscape.md
+        - module-05-cybersecurity/anatomy-of-a-breach.md
+        - module-05-cybersecurity/defending-the-information-society.md
+        - module-06-ethics/information-ethics.md
+        - module-06-ethics/ethical-frameworks-for-technology.md
+        - module-06-ethics/the-ethics-of-ai.md
+        - module-06-ethics/from-principles-to-regulation.md
+        - module-07-trust/trust-in-the-information-society.md
+        - module-07-trust/the-mechanics-of-trust.md
+        - module-07-trust/trusting-machines.md
+        - module-07-trust/trust-in-crisis.md
+        - module-08-misinformation/misinformation-and-disinformation.md
+        - module-08-misinformation/the-misinformation-machine.md
+        - module-08-misinformation/deepfakes-and-synthetic-media.md
+        - module-08-misinformation/fighting-back.md
+        - module-09-review/midterm-review.md
+        - module-10-communication/information-communication-and-society.md
+        - module-10-communication/how-technology-mediates-experience.md
+        - module-10-communication/the-new-news-ecosystem.md
+        - module-10-communication/communicating-with-machines.md
+        - module-11-everyday-ai/ai-in-everyday-life.md
+        - module-11-everyday-ai/the-delegation-society.md
+        - module-11-everyday-ai/ai-at-work-and-at-war.md
+        - module-11-everyday-ai/governing-everyday-ai.md
+        - module-12-future-of-work/the-future-of-work.md
+        - module-12-future-of-work/what-the-evidence-says.md
+        - module-12-future-of-work/skills-and-adaptation.md
+        - module-12-future-of-work/debating-the-future.md
+        - module-13-cyber-ethics/cybersecurity-and-ethics.md
+        - module-13-cyber-ethics/ethical-hacking.md
+        - module-13-cyber-ethics/cyber-conflict-and-the-laws-of-war.md
+        - module-13-cyber-ethics/hard-cases.md
+        - module-14-social-media/social-media-and-society.md
+        - module-14-social-media/the-attention-economy.md
+        - module-14-social-media/watched-and-watching.md
+        - module-14-social-media/moderation-and-the-future-of-platforms.md
+        - course-wrapup.md
+        - glossary.md
+        - references.md
+  downloads:
+    - file: exports/INF420-The-Information-Society.pdf
+      title: Download the full textbook (PDF)
   toc:
     - file: intro.md
     - file: assignments-and-timeline.md

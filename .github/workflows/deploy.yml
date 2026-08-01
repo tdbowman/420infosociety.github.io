@@ -37,6 +37,12 @@ jobs:
           node-version: 18.x
       - name: Install Jupyter Book (via myst)
         run: npm install -g jupyter-book
+      - name: Install Typst (for the PDF export)
+        run: |
+          curl -sL https://github.com/typst/typst/releases/latest/download/typst-x86_64-unknown-linux-musl.tar.xz | tar -xJ -C /tmp
+          echo "/tmp/typst-x86_64-unknown-linux-musl" >> $GITHUB_PATH
+      - name: Build full-book PDF export
+        run: jupyter-book build --typst
       - name: Build HTML Assets
         run: jupyter-book build --html
       - name: Inject font-size accessibility widget
