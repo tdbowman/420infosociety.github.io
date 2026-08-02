@@ -1,6 +1,6 @@
 # Meaning, Semiotics, and Society
 
-> A signal arrives the moment it is received. Information arrives only when someone makes sense of it.
+> <span style="font-size: 150%;">A signal arrives the moment it is received. Information arrives only when someone makes sense of it.</span>
 
 ## 🎯 In This Section
 

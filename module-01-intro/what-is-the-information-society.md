@@ -1,6 +1,6 @@
 # What Is the Information Society?
 
-> "The most valuable resource in the world is no longer oil, land, or labor. It is information, and the attention it competes for."
+> <span style="font-size: 150%;">"The most valuable resource in the world is no longer oil, land, or labor. It is information, and the attention it competes for."</span>
 
 ---
 

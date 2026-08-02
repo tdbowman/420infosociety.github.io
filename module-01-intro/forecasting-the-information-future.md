@@ -1,6 +1,6 @@
 # Forecasting the Information Future
 
-> "It's tough to make predictions, especially about the future." - attributed to Yogi Berra (and half of Denmark)
+> <span style="font-size: 150%;">"It's tough to make predictions, especially about the future." - attributed to Yogi Berra (and half of Denmark)</span>
 
 ---
 

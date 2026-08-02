@@ -1,7 +1,6 @@
 # Information Theory and Its Limits
 
-> "The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point."
-> - Claude Shannon, *A Mathematical Theory of Communication* (1948)
+> <span style="font-size: 150%;">"The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point."  - Claude Shannon, *A Mathematical Theory of Communication* (1948)</span>
 
 ## 🎯 In This Section
 

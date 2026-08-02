@@ -1,6 +1,6 @@
 # Knowing in the Age of AI
 
-> The most dangerous sentence in the world is fluent, confident, and unchecked.
+> <span style="font-size: 150%;">The most dangerous sentence in the world is fluent, confident, and unchecked.</span>
 
 ## 🎯 In This Section
 
