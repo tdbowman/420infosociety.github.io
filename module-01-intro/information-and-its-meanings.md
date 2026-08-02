@@ -1,6 +1,6 @@
 # Information and Its Meanings
 
-> "We can see now that information is what our world runs on: the blood and the fuel, the vital principle." - James Gleick
+> <span style="font-size: 150%;">"We can see now that information is what our world runs on: the blood and the fuel, the vital principle." - James Gleick</span>
 
 ---
 
