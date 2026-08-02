@@ -11,7 +11,7 @@ Everything you'll be graded on, in one place, plus a week-by-week map of the sem
 | **Engagement & Professionalism** | 15% | Showing up prepared, participating, and giving substantive peer reviews | All semester |
 | **Personal Reflections** | 20% | Five reflection posts responding to the readings (plus leading two Friday discussions) | Five Fridays across the semester |
 | **Essay: Evolution of the Information Society** | 15% | A 1,200-word essay on the transformation from industrial to information society | Module 4 |
-| **Case Analysis (choose your track)** | 25% | An 1,800-word analysis of a real case — AI ethics, a cybersecurity incident, or a misinformation event | Draft Module 8 · Final Module 10 |
+| **Case Analysis (choose your track)** | 25% | An 1,800-word analysis of a real case: AI ethics, a cybersecurity incident, or a misinformation event | Draft Module 8 · Final Module 10 |
 | **Futures Portfolio** | 25% | A 1,200-word future-of-work debate brief + a 300-word revision memo | Draft Module 12 · Final at finals week |
 
 No exams. No textbook purchases. The work in this course is steady engagement and three pieces of writing you'll actually revise.
@@ -25,7 +25,7 @@ No exams. No textbook purchases. The work in this course is steady engagement an
 This is the "be a good colleague" grade:
 
 - Attend prepared; read before class; bring the readings into discussion
-- Participate in the two **peer-review workshops** (Modules 9 and 13) — bringing a complete draft and giving two substantive reviews is most of this grade
+- Participate in the two **peer-review workshops** (Modules 9 and 13); bringing a complete draft and giving two substantive reviews is most of this grade
 - Plan on roughly 3–4 hours of preparation per hour of class
 - Ask for help early: office hours, class, or Canvas Inbox (put 'Information Society:' in the subject)
 
@@ -33,7 +33,7 @@ This is the "be a good colleague" grade:
 
 Five times during the semester, you'll post a reflection (300–500 words) connecting your own thinking to ONE of that week's readings, and you'll lead two Friday discussions in your assigned weeks.
 
-- Graded **satisfactory/unsatisfactory** against a posted spec — meet the spec and you get full credit; miss it and you may revise once
+- Graded **satisfactory/unsatisfactory** against a posted spec: meet the spec and you get full credit; miss it and you may revise once
 - Think of it as a professional blog post: link what you reference, write in your own voice
 - Each module's Reflection Prompt box gives you a ready-made angle
 
@@ -44,14 +44,14 @@ A 1,200-word essay exploring the historical transformation from industrial socie
 - Structure: Intro → Historical development → Impact on society → Conclusion → References (APA)
 - Draws on Modules 1–4; due in the Module 4 week
 
-### 4. Case Analysis — Choose Your Track (25%)
+### 4. Case Analysis: Choose Your Track (25%)
 
 One substantial analysis, three possible tracks. Pick the one that grabs you:
 
 | Track | Your case | Model readings |
 |-------|-----------|----------------|
 | **A: AI Ethics** | A real-world case where AI ethics were called into question | Module 6 readings |
-| **B: Cybersecurity Incident** | A significant incident — causes, effects, ethical dilemmas (e.g., Change Healthcare, Salt Typhoon, the Arup deepfake fraud) | Module 5 readings |
+| **B: Cybersecurity Incident** | A significant incident: causes, effects, ethical dilemmas (e.g., Change Healthcare, Salt Typhoon, the Arup deepfake fraud) | Module 5 readings |
 | **C: Misinformation Event** | Misinformation spread during a recent event, and countermeasures | Module 8's hurricane-disinformation study |
 
 - 1,800 words: Intro → Case description → Analysis → Responses & countermeasures → Conclusion → References (APA)
@@ -63,11 +63,11 @@ One substantial analysis, three possible tracks. Pick the one that grabs you:
 The capstone: a **1,200-word debate brief** arguing the strongest possible case on a future-of-work question (using the Module 11–12 readings and evidence), plus a **300-word revision memo** describing what you changed after peer review and why.
 
 - Complete draft due at the Module 13 workshop
-- The revision memo is not busywork: narrating your own revision process is how professionals write, and it's where you show your thinking
+- The revision memo carries real weight: narrating your own revision process is how professionals write, and it's where you show your thinking
 - Final portfolio due finals week
 
 :::{note} AI-use disclosure
-Every written assignment includes a one-sentence disclosure of what AI tools (if any) you used and how. Honest disclosure is never penalized; hiding AI use is an academic-integrity issue. We'll discuss what good AI use looks like all semester — it's literally a course topic.
+Every written assignment includes a one-sentence disclosure of what AI tools (if any) you used and how. Honest disclosure is never penalized; hiding AI use is an academic-integrity issue. We'll discuss what good AI use looks like all semester, since it's literally a course topic.
 :::
 
 ---
@@ -76,7 +76,7 @@ Every written assignment includes a one-sentence disclosure of what AI tools (if
 
 | Week | Module | Due / Milestones |
 |------|--------|------------------|
-| 1 | Module 1: Introduction to the Information Society | — |
+| 1 | Module 1: Introduction to the Information Society | Nothing due |
 | 2 | Module 2: Foundational Theories | Reflections begin |
 | 3 | Module 3: Artificial Intelligence in Society | Reflection |
 | 4 | Module 4: Automation and Robotics | **Evolution essay due** |
@@ -90,10 +90,10 @@ Every written assignment includes a one-sentence disclosure of what AI tools (if
 | 12 | Module 12: The Future of Work | **Futures-brief draft due** |
 | 13 | Module 13: Cybersecurity and Ethics | **Peer-review workshop 2** |
 | 14 | Module 14: Social Media and Society | Final reflection |
-| Finals | — | **Futures Portfolio due** |
+| Finals | No new module | **Futures Portfolio due** |
 
 :::{note} Canvas is the source of truth
-This table shows the rhythm of the course. Exact due dates, adjustments, and submission links are on Canvas — check it weekly. When this page and Canvas disagree, Canvas wins.
+This table shows the rhythm of the course. Exact due dates, adjustments, and submission links are on Canvas, so check it weekly. When this page and Canvas disagree, Canvas wins.
 :::
 
 ---
@@ -103,10 +103,10 @@ This table shows the rhythm of the course. Exact due dates, adjustments, and sub
 1. **Weekend / early week**: read the module pages in this book, then the assigned readings
 2. **In class**: discuss, question, push back
 3. **By Friday's class**: post your reflection (in your assigned weeks, prepare to lead)
-4. **From week 5 on**: keep a running document of case-analysis material — an 1,800-word analysis is much easier to build over five weeks than in one
+4. **From week 5 on**: keep a running document of case-analysis material. An 1,800-word analysis is much easier to build over five weeks than in one
 
 ---
 
 ## Questions?
 
-Ask early! Office hours, class time, or the Canvas Inbox all work. If something on this page seems to conflict with Canvas or the syllabus, flag it — catching inconsistencies is an information-society skill, and yes, it counts toward engagement.
+Ask early! Office hours, class time, or the Canvas Inbox all work. If something on this page seems to conflict with Canvas or the syllabus, flag it. Catching inconsistencies is an information-society skill, and yes, it counts toward engagement.

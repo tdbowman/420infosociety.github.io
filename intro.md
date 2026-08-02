@@ -3,7 +3,7 @@
 **INF 420 @ Dominican University | The iSchool**
 
 ```{image} images/cover.png
-:alt: Book cover of The Information Society, INF 420 — a mid-century illustration of three overlapping human profiles in black, teal, and orange, woven together by a network of connected nodes.
+:alt: Book cover of The Information Society, INF 420: a mid-century illustration of three overlapping human profiles in black, teal, and orange, woven together by a network of connected nodes.
 :width: 420px
 :align: center
 :class: book-cover
@@ -11,7 +11,7 @@
 
 ---
 
-This interactive textbook is your companion for one big question: **what happens when a society runs on information?** Artificial intelligence writes and reasons, robots learn factory work by watching, misinformation travels faster than corrections, and nearly every job, relationship, and institution is being renegotiated around information technology. This course gives you the concepts, evidence, and critical habits to make sense of it — and to help shape it.
+This interactive textbook is your companion for one big question: **what happens when a society runs on information?** Artificial intelligence writes and reasons. Robots learn factory work by watching. Misinformation travels faster than corrections, and nearly every job, relationship, and institution is being renegotiated around information technology. This course gives you the concepts, the evidence, and the critical habits to make sense of all that, and to help shape it.
 
 ## The Course in One Picture
 
@@ -28,9 +28,9 @@ As Melvin Kranzberg's first law puts it: *"Technology is neither good nor bad; n
 Throughout this course, you'll wrestle with questions like:
 
 - 🤖 **When an AI system makes a decision about you, who is responsible for it?**
-- ⚙️ **Will automation take your job — or change it into something new?**
+- ⚙️ **Will automation take your job, or change it into something new?**
 - 🔐 **Why do massive cybersecurity breaches keep happening, and who pays the price?**
-- 🤝 **What makes us trust a person, an institution, or a machine — and what breaks that trust?**
+- 🤝 **What makes us trust a person, an institution, or a machine, and what breaks that trust?**
 - 📰 **In a world of deepfakes and algorithmic feeds, how does anyone know what's true?**
 
 ## How This Book Works
@@ -39,14 +39,14 @@ Throughout this course, you'll wrestle with questions like:
 |---------|-------------|
 | 📖 **Read & Reflect** | Each module includes readings, videos, and discussion prompts to get you thinking critically. |
 | 🗣️ **Friday Reflections** | Your reflections and student-led discussions are where the real learning happens. |
-| ✍️ **Write & Revise** | Three substantial papers — with peer-review workshops built in — turn ideas into arguments. |
+| ✍️ **Write & Revise** | Three substantial papers, with peer-review workshops built in, that turn ideas into arguments. |
 
 ## Ready to Begin?
 
 Use the navigation on the left to explore the modules, check out [How to Use This Book](how-to-use.md) to get the most out of it, or see [Assignments & Course Timeline](assignments-and-timeline.md) for the full picture of what's due and when.
 
 :::{tip} A Note from Dr. Bowman
-Welcome! I'm excited to be your guide through The Information Society. This course sits at the intersection of technology and everything else — work, ethics, trust, truth, and the future you're about to build a career in. Bring your curiosity, your skepticism, and your own experiences with the information systems that already shape your life. Let's learn together!
+Welcome! I'm excited to be your guide through The Information Society. This course sits where technology meets everything else: work, ethics, trust, truth, and the future you're about to build a career in. Bring your curiosity, your skepticism, and your own experiences with the information systems that already shape your life. Let's learn together!
 :::
 
 ---
