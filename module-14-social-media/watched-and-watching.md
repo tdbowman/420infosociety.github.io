@@ -1,7 +1,6 @@
 # Watched and Watching
 
-> "Visibility is a trap."
-> - Michel Foucault, *Discipline and Punish* (1975)
+> <span style="font-size: 150%;">"Visibility is a trap." - Michel Foucault, *Discipline and Punish* (1975)</span>
 
 ## 🎯 In This Section
 

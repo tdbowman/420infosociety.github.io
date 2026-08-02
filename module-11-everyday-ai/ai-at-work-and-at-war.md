@@ -1,6 +1,6 @@
 # AI at Work and at War
 
-> Automation never removes humans from the loop. It decides which loop the humans are left holding.
+> <span style="font-size: 150%;">Automation never removes humans from the loop. It decides which loop the humans are left holding.</span>
 
 ## 🎯 In This Section
 

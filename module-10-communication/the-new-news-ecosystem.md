@@ -1,6 +1,6 @@
 # The New News Ecosystem
 
-> "The medium is the message." - Marshall McLuhan
+> <span style="font-size: 150%;">"The medium is the message." - Marshall McLuhan</span>
 
 ## 🎯 In This Section
 

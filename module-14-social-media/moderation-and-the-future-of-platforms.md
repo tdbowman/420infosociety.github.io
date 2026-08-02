@@ -1,6 +1,6 @@
 # Moderation and the Future of Platforms
 
-> Every feed is edited. The only question is by whom, by what rules, and for whose benefit.
+> <span style="font-size: 150%;">Every feed is edited. The only question is by whom, by what rules, and for whose benefit.</span>
 
 ## 🎯 In This Section
 

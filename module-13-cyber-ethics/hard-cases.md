@@ -1,6 +1,6 @@
 # Hard Cases
 
-> Principles are cheap until the network goes down.
+> <span style="font-size: 150%;">Principles are cheap until the network goes down.</span>
 
 ## 🎯 In This Section
 

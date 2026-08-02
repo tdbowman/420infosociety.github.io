@@ -1,6 +1,6 @@
 # The Delegation Society
 
-> Every act of delegation makes trust visible and power invisible.
+> <span style="font-size: 150%;">Every act of delegation makes trust visible and power invisible.</span>
 
 ## 🎯 In This Section
 

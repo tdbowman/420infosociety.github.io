@@ -1,6 +1,6 @@
 # How Technology Mediates Experience
 
-> "We shape our tools, and thereafter our tools shape us." - John M. Culkin
+> <span style="font-size: 150%;">"We shape our tools, and thereafter our tools shape us." - John M. Culkin</span>
 
 ## 🎯 In This Section
 

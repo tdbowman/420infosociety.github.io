@@ -1,7 +1,6 @@
 # What the Evidence Says
 
-> We are being afflicted with a new disease of which some readers may not yet have heard the name, but of which they will hear a great deal in the years to come: namely, technological unemployment.
-> - John Maynard Keynes, 1930
+> <span style="font-size: 150%;">We are being afflicted with a new disease of which some readers may not yet have heard the name, but of which they will hear a great deal in the years to come: namely, technological unemployment. - John Maynard Keynes, 1930</span>
 
 ## 🎯 In This Section
 

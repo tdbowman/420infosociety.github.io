@@ -1,6 +1,6 @@
 # Communicating with Machines
 
-> A tool that answers back is no longer only a tool.
+> <span style="font-size: 150%;">A tool that answers back is no longer only a tool.</span>
 
 ## 🎯 In This Section
 

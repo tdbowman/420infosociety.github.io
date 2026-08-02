@@ -1,6 +1,6 @@
 # The Mechanics of Trust
 
-> Trust is the tax you never see on every transaction you ever make, and the only tax that gets cheaper the more everyone pays it.
+> <span style="font-size: 150%;">Trust is the tax you never see on every transaction you ever make, and the only tax that gets cheaper the more everyone pays it.</span>
 
 ## 🎯 In This Section
 

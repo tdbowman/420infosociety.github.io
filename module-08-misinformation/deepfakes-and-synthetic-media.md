@@ -1,6 +1,6 @@
 # Deepfakes and Synthetic Media
 
-> Seeing used to be believing. Now it's a hypothesis.
+> <span style="font-size: 150%;">Seeing used to be believing. Now it's a hypothesis.</span>
 
 ## 🎯 In This Section
 

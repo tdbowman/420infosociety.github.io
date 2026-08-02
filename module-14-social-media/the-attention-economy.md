@@ -1,7 +1,6 @@
 # The Attention Economy
 
-> "Surveillance capitalism unilaterally claims human experience as free raw material for translation into behavioral data."
-> - Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019)
+> <span style="font-size: 150%;">"Surveillance capitalism unilaterally claims human experience as free raw material for translation into behavioral data." - Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019)</span>
 
 ## 🎯 In This Section
 

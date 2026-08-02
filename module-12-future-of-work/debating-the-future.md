@@ -1,6 +1,6 @@
 # Debating the Future
 
-> You have not understood a position until you can state it so well that its defenders would sign your version.
+> <span style="font-size: 150%;">You have not understood a position until you can state it so well that its defenders would sign your version.</span>
 
 ## 🎯 In This Section
 

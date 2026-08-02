@@ -1,6 +1,6 @@
 # Governing Everyday AI
 
-> Policy is the art of deciding defaults for people who will never read the document.
+> <span style="font-size: 150%;">Policy is the art of deciding defaults for people who will never read the document.</span>
 
 ## 🎯 In This Section
 

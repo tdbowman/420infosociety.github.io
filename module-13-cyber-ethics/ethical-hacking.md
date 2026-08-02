@@ -1,6 +1,6 @@
 # Ethical Hacking
 
-> The difference between a security researcher and a criminal can be a single email asking permission.
+> <span style="font-size: 150%;">The difference between a security researcher and a criminal can be a single email asking permission.</span>
 
 ## 🎯 In This Section
 

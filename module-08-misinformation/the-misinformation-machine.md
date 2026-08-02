@@ -1,7 +1,6 @@
 # The Misinformation Machine
 
-> A lie can travel halfway around the world while the truth is still putting on its shoes.
-> - widely attributed to Mark Twain, though there's no evidence he ever said it. Which is rather the point.
+> <span style="font-size: 150%;">A lie can travel halfway around the world while the truth is still putting on its shoes.  - widely attributed to Mark Twain, though there's no evidence he ever said it. Which is rather the point.</span>
 
 ## 🎯 In This Section
 

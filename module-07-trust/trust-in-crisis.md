@@ -1,6 +1,6 @@
 # Trust in Crisis
 
-> A society does not collapse when people believe wrong things. It collapses when they can no longer agree on whom to believe at all.
+> <span style="font-size: 150%;">A society does not collapse when people believe wrong things. It collapses when they can no longer agree on whom to believe at all.</span>
 
 ## 🎯 In This Section
 

@@ -1,6 +1,6 @@
 # Trusting Machines
 
-> We forgive our friends a hundred errors and our software none, until it starts talking, and then we forgive it everything.
+> <span style="font-size: 150%;">We forgive our friends a hundred errors and our software none, until it starts talking, and then we forgive it everything.</span>
 
 ## 🎯 In This Section
 

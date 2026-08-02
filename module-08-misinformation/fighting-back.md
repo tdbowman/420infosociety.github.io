@@ -1,6 +1,6 @@
 # Fighting Back
 
-> You cannot fact-check your way out of a problem you engaged your way into.
+> <span style="font-size: 150%;">You cannot fact-check your way out of a problem you engaged your way into.</span>
 
 ## 🎯 In This Section
 

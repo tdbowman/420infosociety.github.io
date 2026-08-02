@@ -1,6 +1,6 @@
 # Cyber Conflict and the Laws of War
 
-> Every war now has a front line that runs through civilian laptops.
+> <span style="font-size: 150%;">Every war now has a front line that runs through civilian laptops.</span>
 
 ## 🎯 In This Section
 
