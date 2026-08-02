@@ -1,7 +1,6 @@
 # Ethical Frameworks for Technology
 
-> "Technology is neither good nor bad; nor is it neutral."
-> - Melvin Kranzberg, "Kranzberg's Laws" (1986)
+><span style="font-size: 150%;">"Technology is neither good nor bad; nor is it neutral." - Melvin Kranzberg, "Kranzberg's Laws" (1986)</span>
 
 ## 🎯 In This Section
 

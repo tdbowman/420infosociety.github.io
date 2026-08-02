@@ -1,6 +1,6 @@
 # AI and Human Connection
 
-> We shape our tools, and thereafter our tools shape our conversations.
+> <span style="font-size: 150%;">We shape our tools, and thereafter our tools shape our conversations.</span>
 
 ## 🎯 In This Section
 

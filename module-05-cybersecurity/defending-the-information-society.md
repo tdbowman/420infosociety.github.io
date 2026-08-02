@@ -1,6 +1,6 @@
 # Defending the Information Society
 
-> Attackers need one open door. Defenders answer for every door, and for deciding, as a society, which doors matter most.
+> <span style="font-size: 150%;">Attackers need one open door. Defenders answer for every door, and for deciding, as a society, which doors matter most.</span>
 
 ## 🎯 In This Section
 

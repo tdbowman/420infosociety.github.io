@@ -1,6 +1,6 @@
 # The Threat Landscape
 
-> A society that runs on information can be attacked anywhere information runs.
+> <span style="font-size: 150%;">A society that runs on information can be attacked anywhere information runs.</span>
 
 ## 🎯 In This Section
 

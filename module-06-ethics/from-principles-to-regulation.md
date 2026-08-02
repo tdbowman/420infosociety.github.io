@@ -1,6 +1,6 @@
 # From Principles to Regulation
 
-> A principle that costs nothing to violate is not a rule. It is a suggestion with good typography.
+> <span style="font-size: 150%;">A principle that costs nothing to violate is not a rule. It is a suggestion with good typography.</span>
 
 ## 🎯 In This Section
 

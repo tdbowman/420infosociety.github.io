@@ -1,6 +1,6 @@
 # Promise and Peril
 
-> Every tool is a weapon if you hold it right.
+> <span style="font-size: 150%;">Every tool is a weapon if you hold it right.</span>
 
 ## 🎯 In This Section
 

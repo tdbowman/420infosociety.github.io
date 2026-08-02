@@ -1,6 +1,6 @@
 # What AI Is (and Isn't)
 
-> The question is not whether machines think, but whether we notice what they actually do.
+> <span style="font-size: 150%;">The question is not whether machines think, but whether we notice what they actually do.</span>
 
 ## 🎯 In This Section
 

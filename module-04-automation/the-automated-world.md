@@ -1,6 +1,6 @@
 # The Automated World
 
-> You stop seeing automation the moment it starts working.
+> <span style="font-size: 150%;">You stop seeing automation the moment it starts working.</span>
 
 ## 🎯 In This Section
 

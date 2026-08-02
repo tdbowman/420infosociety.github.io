@@ -1,6 +1,6 @@
 # The Ethics of AI
 
-> The question is rarely whether a machine has values. It is whose values the machine has, and who never got a vote.
+> <span style="font-size: 150%;">The question is rarely whether a machine has values. It is whose values the machine has, and who never got a vote.</span>
 
 ## 🎯 In This Section
 

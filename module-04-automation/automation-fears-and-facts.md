@@ -1,6 +1,6 @@
 # Automation Fears and Facts
 
-> The fear of the machine is always, underneath, a fear about who will be counted as necessary.
+> <span style="font-size: 150%;">The fear of the machine is always, underneath, a fear about who will be counted as necessary.</span>
 
 ## 🎯 In This Section
 

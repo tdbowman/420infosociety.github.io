@@ -1,6 +1,6 @@
 # Anatomy of a Breach
 
-> Every catastrophic breach looks inevitable in hindsight and impossible the day before.
+> <span style="font-size: 150%;">Every catastrophic breach looks inevitable in hindsight and impossible the day before.</span>
 
 ## 🎯 In This Section
 

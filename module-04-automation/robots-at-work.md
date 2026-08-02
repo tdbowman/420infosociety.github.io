@@ -1,6 +1,6 @@
 # Robots at Work
 
-> In robotics, the hard problems turn out to be easy, and the easy problems turn out to be hard.
+> <span style="font-size: 150%;">In robotics, the hard problems turn out to be easy, and the easy problems turn out to be hard.</span>
 
 ## 🎯 In This Section
 
