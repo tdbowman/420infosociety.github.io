@@ -1,6 +1,6 @@
 # Skills and Adaptation
 
-> Machines are hired to do tasks. People are hired to take responsibility.
+> <span style="font-size: 150%;">Machines are hired to do tasks. People are hired to take responsibility.</span>
 
 ## 🎯 In This Section
 
